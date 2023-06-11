@@ -1,5 +1,5 @@
 export LOCAL_CONFIGURATION_PATH="/home/$USER/.local/LocalConfiguration/"
-export PATH="/home/$USER/.local/bin:$PATH"
+export PATH="/home/$USER/:$PATH"
 
 
 # If you come from bash you might have to change your $PATH.
