@@ -1,4 +1,5 @@
 export LOCAL_CONFIGURATION_PATH="/home/$USER/.local/LocalConfiguration/"
+export PATH="/home/$USER/.local/bin:$PATH"
 export PATH="/home/$USER/:$PATH"
 
 
